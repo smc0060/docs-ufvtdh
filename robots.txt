@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-5dskxi.yoursingles.online/sitemap.xml
